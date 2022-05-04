@@ -7,7 +7,7 @@
   label="Label"
   value="We ❤️ React!"
   onChange={(e) => {}}
-  isRequired={false}
+  isRequired={true}
   maxLength={20}
   helperText="Error message"
   error={true}
