@@ -4,7 +4,7 @@
 <Loading/>
 ```
 
-### Part 3
+### Part 1
 
 Öncəki taskımızda postları ajax ilə çəkib render edən `<Posts/>` componenti hazırladıq,
 hansı ki bu component datalar gələnə qədər `Loading...` texti render edir.
