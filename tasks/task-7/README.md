@@ -11,8 +11,8 @@
 `<Posts/>` stateful componenti hazırlayın. Bu component öz daxilində `posts` 
 adlı array tipində state tutacaq və o arrayı `<ul>` içində `<li>` olaraq render etməlidir.
 
-`Fetch` düyməsi əlavə edin, bu düyməyə clicklədikdə `https://jsonplaceholder.typicode.com/posts` linkinə ajax ataraq
-postları çəkib `posts` state-nə doldurmalıdır.
+`Fetch` düyməsi əlavə edin, bu düyməyə clicklədikdə ilk öncə `posts` state-ni `null` edin sonra `https://jsonplaceholder.typicode.com/posts` linkinə ajax ataraq
+postları çəkib `posts` state-nə doldurun. `posts` null olduğu halda isə componentiniz `Loading...` render etməlidir.
 
 ### Part 2
 
