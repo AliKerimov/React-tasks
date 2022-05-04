@@ -13,5 +13,8 @@ todo-nun əvvəlki value-si geri gəlməlidir və edit halından çıxmalıdır 
 
 Yuxarıda completed və total todoların sayı göstərilməlidir.
 
+## Bonus
+`Export as JSON` buttonu əlavə edin, ona clicklədikdə TodoList datalarını json stringə çevirib ekrana yazın. 
+
 ## Restrictions
 `React.useState()` hookundan istifadə edin. Reactın köhnə class tipli componentləri üçün olan `setState()` ilə etməyin..
