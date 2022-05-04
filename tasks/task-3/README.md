@@ -11,6 +11,7 @@
   maxLength={20}
   helperText="Error message"
   error={true}
+  disabled={false}
 />
 ```
 
@@ -25,6 +26,7 @@
 | maxLength  | int      | null    |
 | helperText | string   | null    |
 | error      | bool     | false   |
+| disabled   | bool     | false   |
 
 React-da input fieldlar da pure component sayılır. Userin inputunu öz daxili state'ndə saxlamaq əvəzinə parentə callback ilə ötürürlər.
 Məsələn yuxarıda verilmiş `<TextField/>` componentinə sadəcə `value` propsu ötürülsə (`onChange` olmadan), həmin field read-only olacaq, user texti editləyə bilməyəcək.
@@ -32,7 +34,7 @@ Məsələn yuxarıda verilmiş `<TextField/>` componentinə sadəcə `value` pro
 Verilmiş propsları olan `<TextField/>` componenti hazırlayın. `isRequired` propsu `true` verildikdə labelin sağında `asterisk (*)` göstərin.
 `maxLength` verilibsə, inputun altında indiki cari length və maxLength olacaq. `helperText` isə null deyilsə inputun altında görünəcək.
 
-`error` propsu `true` olduqda border, label və helper text qırmızı rəngdə olacaq.
+`error` propsu `true` olduqda border, label və helper text qırmızı rəngdə olacaq, `disabled` `true` olduqda isə input disable olmalıdır.
 
 Son olaraq userin daxil etməyə çalışdığı input `maxLength`-dən böyük olduqda `onChange` callbackını çağırmayın.
 
