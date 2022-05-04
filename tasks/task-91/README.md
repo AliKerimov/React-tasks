@@ -15,3 +15,5 @@ Daha sonra bu methodu istifadə etməyə çalışın, buglar çıxacaq və işl�
 
 ## Note
 `userId = null;` yazaraq yox, `setUserId(null);` şəklində etməyi unutmayın.
+
+### #useYourImagination()!
