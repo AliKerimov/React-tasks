@@ -12,3 +12,6 @@ Məsələn `myFetch()`, bu funksiya özünə gələn bütün arqumentləri modif
 sadəcə gələn responsenin status koduna baxacaq. Əgər `401` gəlibsə, `useContext()` ilə `AuthContext`-ni götürərək, onun `userId`-sini null edəcək.
 
 Daha sonra bu methodu istifadə etməyə çalışın, buglar çıxacaq və işləməyəcək. Bunun səbəbini və həllini araşdırıb tapın.
+
+## Note
+`userId = null;` yazaraq yox, `setUserId(null);` şəklində etməyi unutmayın.
