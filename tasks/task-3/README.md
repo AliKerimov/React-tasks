@@ -16,15 +16,15 @@
 
 ## Props
 
-| Name       | Type     | Default | Description |
-|------------|----------|---------|-------------|
-| label      | string   | null    |             |
-| value      | string   | null    |             |
-| onChange   | callback | null    |             |
-| isRequired | bool     | false   |             |
-| maxLength  | int      | null    |             |
-| helperText | string   | null    |             |
-| error      | bool     | false   |             |
+| Name       | Type     | Default |
+|------------|----------|---------|
+| label      | string   | null    |
+| value      | string   | null    |
+| onChange   | callback | null    |
+| isRequired | bool     | false   |
+| maxLength  | int      | null    |
+| helperText | string   | null    |
+| error      | bool     | false   |
 
 React-da input fieldlar da pure component sayılır. Userin inputunu öz daxili state'ndə saxlamaq əvəzinə parentə callback ilə ötürürlər.
 Məsələn yuxarıda verilmiş `<TextField/>` componentinə sadəcə `value` propsu ötürülsə (`onChange` olmadan), həmin field read-only olacaq, user texti editləyə bilməyəcək.
