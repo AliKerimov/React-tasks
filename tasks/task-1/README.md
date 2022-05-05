@@ -23,3 +23,6 @@
 ```
 
 Əgər `onClose` propsu verilibsə Alertin sağında `X` buttonu olsun və ona click etdikdə `props.onClose()` callbackı çağırılsın.
+
+## Links
+- https://reactjs.org/docs/composition-vs-inheritance.html
