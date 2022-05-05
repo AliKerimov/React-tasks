@@ -18,7 +18,7 @@ function MyButton(props) {
   return <button css={myCss}>{props.children}</button>
 }
 
-function Sample() {
+function Index() {
   return (
     <div>
       <MyButton>Styled Button</MyButton>
@@ -32,4 +32,4 @@ function Sample() {
   )
 }
 
-export default Sample;
+export default Index;
