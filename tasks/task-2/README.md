@@ -6,7 +6,7 @@ Pure componentlər öz daxilində state tutmayaraq baş verən hadisələri
 parentinə ötürən componentlərdir.
 Bu tipli componentlər əsasən öz daxilində dizayn/css kodlarını saxlayır. Özündə baş verən hadisələri (event handlers, onClick və.s.) isə handle etməsi üçün parentə ötürür.
 
-İlk taskımız olaraq, yuxarı şəkildə göstərilmiş Cart Item dizaynı üçün React Pure Component hazırlayacağıq.
+Bu taskımızda, yuxarı şəkildə göstərilmiş Cart Item dizaynı üçün React Pure Component hazırlayacağıq.
 
 ```jsx
 <CartItem
