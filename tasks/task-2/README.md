@@ -1,4 +1,4 @@
-# Pure Components in React
+# Pure Components (Part 2)
 
 ![PureComponent](pure-component.png)
 

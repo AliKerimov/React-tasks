@@ -1,4 +1,4 @@
-# Pure Components (Part 2)
+# Pure Components in React
 
 ![AlertComponent](img-1.png)
 
