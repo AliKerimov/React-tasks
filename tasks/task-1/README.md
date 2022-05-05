@@ -24,5 +24,10 @@
 
 Əgər `onClose` propsu verilibsə Alertin sağında `X` buttonu olsun və ona click etdikdə `props.onClose()` callbackı çağırılsın.
 
+## Where to start
+![Sample](img-3.png)
+
+Reponu clone edin, `src/task1.js` faylından başlayın.
+
 ## Links
 - https://reactjs.org/docs/composition-vs-inheritance.html
