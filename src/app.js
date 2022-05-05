@@ -1,5 +1,5 @@
 import React from "react";
-import Task1 from "./task1";
+import Task1 from "./tasks/task1";
 import Sample from "./sample";
 
 function App() {
