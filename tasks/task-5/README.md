@@ -17,3 +17,5 @@ Counter'i sıfırlamaq üçün reset düyməsi yerləşdirin aşağı hissəyə.
 
 ## Restrictions
 `React.useState()` hookundan istifadə edin. Reactın köhnə class tipli componentləri üçün olan `setState()` ilə etməyin..
+
+- https://reactjs.org/docs/hooks-reference.html#usestate
