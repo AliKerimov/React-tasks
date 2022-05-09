@@ -13,3 +13,4 @@ Bu səhifədəki photolara click etdikdə isə `/photos/:id` səhifəsinə navig
 
 ## Links
 - https://reactrouter.com
+- https://jsonplaceholder.typicode.com
