@@ -7,6 +7,8 @@ React Router ilə basic app yazılacaq. Ana səhifədə Albums səhifəsinə `/a
 `/albums/:id` səhifəsinin contenti isə `https://jsonplaceholder.typicode.com/albums/:id/photos` endpointindən gəlməlidir.
 Bu səhifədəki photolara click etdikdə isə `/photos/:id` səhifəsinə navigate edin.
 
+`/photos/:id` üçün contenti `https://jsonplaceholder.typicode.com/photos/:id` endpointindən əldə edə bilərsiniz.
+
 Əlavə olaraq 404 Page hazırlayın, qeyd edilməmiş pathlərə daxil olduqda xüsusi 404 səhifəsi göstərilsin.
 
 ## Links
