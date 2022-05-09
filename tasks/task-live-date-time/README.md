@@ -1,6 +1,6 @@
 # Live Date & Time Component
 
-![DT](img-1.png)
+![DT](live.gif)
 
 ```jsx
 <div>
