@@ -9,3 +9,6 @@
 ```
 İndiki tarixi canlı göstərən `<LiveDateTime/>` componenti hazırlayın.
 Hər saniyə özünü update etməlidir. `setInterval()`-ı leak etməməyə diqqət edin.
+
+## Restrictions
+React Hooklarından istifadə edin, class based component ilə deyil.
