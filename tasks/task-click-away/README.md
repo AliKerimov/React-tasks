@@ -15,3 +15,4 @@ Yazdığınız həlli custom hook'a çevirin. Məsələn `useClickAway(callback)
 ### Hints
 - [useRef()](https://reactjs.org/docs/hooks-reference.html#useref)
 - [useEffect()](https://reactjs.org/docs/hooks-reference.html#useeffect)
+- [Node.contains()](https://developer.mozilla.org/en-US/docs/Web/API/Node/contains)
