@@ -8,3 +8,5 @@ Misal olaraq dropdown, select kimi inputlar özündən kənara click edildikdə 
 Event listenerları leak etməməyə diqqət edin. Hansısa dom elementə event listener əlavə etdiyiniz kimi
 zamanı gəldiyində remove etməyi də unutmayın.
 
+## Bonus
+Yazdığınız həlli custom hook'a çevirin. Məsələn `useClickAway(callback)`. Beləliklə başqaları da sizin kodunuzu rahat istifadə edə biləcək. Unutmayın, componentlər **reusable UI**, hooklar isə **reusable logic'dir**.
