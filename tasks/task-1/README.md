@@ -27,7 +27,9 @@
 ## Where to start
 ![Sample](img-3.png)
 
-Reponu clone edin, `src/task1.js` faylından başlayın.
+Reponu clone edin, `src/task1.js` faylından başlayın. Styling üçün `emotion` istifadə edin, inline css yazmayın. Repo-da sizin
+istifadəniz üçün hazır emotion quraşdırılıb. Nümunələrə baxın.
 
 ## Links
+- https://emotion.sh/docs/introduction
 - https://reactjs.org/docs/composition-vs-inheritance.html
