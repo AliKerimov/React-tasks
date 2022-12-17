@@ -21,13 +21,13 @@ function MyButton(props) {
 function Index() {
   return (
     <div>
-      <MyButton>Styled Button</MyButton>
+      {/* <MyButton>Styled Button</MyButton>
       <MyButton>Another styled button</MyButton>
       <img src={SVGLogo} alt="SVG Logo" width={100} height={100}/>
       <img src={CatImg} alt="Cat" width={100} height={100}/>
 
       <div>url of cat img: {CatImg}</div>
-      <div>url of svg logo: {SVGLogo}</div>
+      <div>url of svg logo: {SVGLogo}</div> */}
     </div>
   )
 }
